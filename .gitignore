@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+# checkpoints / weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
+# logs and outputs
+output/
+outputs/
+runs/
+logs/
+*.log
+
+# local env files
+.env
